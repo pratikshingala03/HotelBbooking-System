@@ -9,7 +9,7 @@
 
 ## Project Links
 - GitHub Repository: https://github.com/pratikshingala03/HotelBbooking-System/edit/main/
-- Video Demonstration (3-5 min): <YouTube/OneDrive link>
+- Video Demonstration (3-5 min): https://youtu.be/fJG69qLTRDM
 
 ## Project Overview
 This project implements a relational database for a hotel management use case.  
